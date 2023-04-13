@@ -1,7 +1,9 @@
-<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/106864499/231784698-dda781cd-f7f1-4445-90bb-197b3b49c939.png" height="175px"/></a>
+<!--<a href="#"><img width="100%" height="auto" src="https://user-images.githubusercontent.com/106864499/231784698-dda781cd-f7f1-4445-90bb-197b3b49c939.png" height="175px"/></a>-->
 
 <h1 align="center">Hi <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px">, I'm Sanket Gadekar</h1>
 <h3 align="center">I'm a passionate Computer Engineer from India..</h3>
+
+<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/106864499/231784698-dda781cd-f7f1-4445-90bb-197b3b49c939.png">
 
 <br>
 
