@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gadekarsanket31700@gmail.com**
 
-- ⚡ Fun fact **I love to explore new things and Learning.**
+- ⚡ Fun fact **I love to explore new things and to learn them.**
 
 <br>
 
