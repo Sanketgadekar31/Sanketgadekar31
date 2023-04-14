@@ -1,18 +1,11 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px">, I'm Sanket Gadekar</h1>
 <h3 align="center">I'm a passionate Computer Engineer from India..</h3>
 <br>
-<br>
-<img align="right" alt="coding" width ="400" src="https://user-images.githubusercontent.com/106864499/231784698-dda781cd-f7f1-4445-90bb-197b3b49c939.png">
 
-<br>
 
 ## 🙋‍♂️ About Me
 
-<br>
 
-- 🌱 100 Day of Code Challenge! **[PYTHON](https://youtube.com/playlist?list=PLu0W_9lII9agwh1XjRt242xIpHhPT2llg)**
-
-- 🔭 College Real Time Project **[Laboratory Management System](https://github.com/Sanketgadekar31/Yellow-Book-Lab-Register-.git)**
 
 - 📫 How to reach me **gadekarsanket31700@gmail.com**
 
@@ -36,24 +29,6 @@
 
 <br/>
 
-<p align="center">
-    <a href="https://github.com/Sanketgadekar31/github-readme-streak-stats">
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sanket Gadekar Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=Sanketgadekar31&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
-    </a>
-</p>
-
-
-<br/>
-<br/>
-
-
-<!--
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
-
----
-[![](https://visitcount.itsvg.in/api?id=iampawan&icon=0&color=1)](https://visitcount.itsvg.in)
--->
   
 ## Connect with me:
 <p align="left">
