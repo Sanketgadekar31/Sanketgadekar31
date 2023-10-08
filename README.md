@@ -1,5 +1,5 @@
 <div align="center">
-  <h1 align="center"><img src="https://ibb.co/n3rLd4y" width="30px"></h1>
+  <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="30px"></h1>
 # 💫 About Me:
 🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.<br>🤝 I'm eager to collaborate on innovative projects and offer my expertise in web development, data analysis, or machine learning to those in need.<br>💬 Feel free to ask me anything about technology, data science, or project management. <br>⚡ I love travelling and explore new things.
 
