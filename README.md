@@ -1,9 +1,9 @@
-<div align="center">
-  <h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="30px"></h1>
+<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="30px"></h1>
 # 💫 About Me:
 🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.<br>🤝 I'm eager to collaborate on innovative projects and offer my expertise in web development, data analysis, or machine learning to those in need.<br>💬 Feel free to ask me anything about technology, data science, or project management. <br>⚡ I love travelling and explore new things.
 
-
+<div align="center">
+  
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_sanket_gadekar/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sanket-gadekar-878607208/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/22704785/sanket-gadekar) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/_sanket_gadekar) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@https://medium.com/@sanketg31700) 
 
