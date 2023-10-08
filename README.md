@@ -7,10 +7,15 @@
 
 ## 🙋‍♂️ About Me
 
-🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.<br>
-🤝 I'm eager to collaborate on innovative projects and offer my expertise in web development, data analysis, or machine learning to those in need.<br>
-💬 Feel free to ask me anything about technology, data science, or project management. <br>
-⚡ I love travelling and explore new things.<br>
+- 🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.
+
+- 🤝 I'm eager to collaborate on **innovative projects and OpenSource Projects**.<br>
+
+- 🔍 Research Area **Web Technologies, Data Science, Software Development and Machine Learning**
+
+- 💬 Feel free to reach me **gadekarsanket31700@gmail.com** <br>
+
+- ⚡ I love **Travelling and explore new things**.<br>
 
 <div align="center">
   
