@@ -1,6 +1,16 @@
-<h1 align="center"><img src="https://user-images.githubusercontent.com/74038190/264141683-8aa99f6c-267d-4977-9cd3-1a4c11675863.gif" width="30px"></h1>
-# 💫 About Me:
-🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.<br>🤝 I'm eager to collaborate on innovative projects and offer my expertise in web development, data analysis, or machine learning to those in need.<br>💬 Feel free to ask me anything about technology, data science, or project management. <br>⚡ I love travelling and explore new things.
+<a href="#"><img width="100%" height="auto" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966" height="175px"/></a>
+
+<h1 align="center">Hi <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="30px">, I'm Sanket Gadekar</h1>
+<h3 align="center">I'm a passionate Computer Science Engineer from Maharashtra, India.</h3>
+
+<br>
+
+## 🙋‍♂️ About Me
+
+🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.<br>
+🤝 I'm eager to collaborate on innovative projects and offer my expertise in web development, data analysis, or machine learning to those in need.<br>
+💬 Feel free to ask me anything about technology, data science, or project management. <br>
+⚡ I love travelling and explore new things.<br>
 
 <div align="center">
   
