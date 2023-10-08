@@ -9,7 +9,7 @@
 
 - 🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.
 
-- 🤝 I'm eager to collaborate on **innovative projects and OpenSource Projects**.<br>
+- 🤝 I'm eager to collaborate on **innovative OpenSource Projects**.<br>
 
 - 🔍 Research Area **Web Technologies, Data Science, Software Development and Machine Learning**
 
