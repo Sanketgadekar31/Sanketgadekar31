@@ -7,8 +7,6 @@
 
 - 🔍 Research Area **Web Technologies, Data Science, Software Development and Machine Learning**
 
-- 💬 Feel free to reach me **gadekarsanket31700@gmail.com** <br>
-
 - ⚡ I love **Travelling and explore & Learn new Tech**.<br>
 
 ## Language and Tools
