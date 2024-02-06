@@ -1,5 +1,5 @@
-<h1 align="">Hi, I'm Sanket Gadekar 👋</h1>
-<h3 align="">Computer Science Engineering Student</h3>
+<h1 align="">Hey, My name is Sanket Gadekar 👋</h1>
+<h3 align="">I'm Computer Science Engineering Student</h3>
 
 - 🔭 I’m a driven Computer Science student with a passion for technology, Programming and data science.
 
