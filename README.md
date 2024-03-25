@@ -40,6 +40,7 @@
 
 <br>
 
+<!-- 
 ## 📊 My Github Stats:
 <div align="">
   
@@ -47,6 +48,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Sanketgadekar31&theme=tokyonight&hide_border=false)<br/>
 
 </div>
+-->
 
 ## Contact me:
 <div>
